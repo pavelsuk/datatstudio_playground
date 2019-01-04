@@ -43,7 +43,6 @@ where `scriptID` is found in [script.google.com](https://script.google.com/home)
 
 See [Tutorial](https://codelabs.developers.google.com/codelabs/clasp/#5)
 
-
 ``` bash
 clasp version "First version"
 clasp deploy 1 "First deployment"
@@ -51,5 +50,5 @@ clasp deploy 1 "First deployment"
 
 ## Important Files for Datastudio connector
 
-- [manifest: clasp_codelab/appsscript.json](clasp_codelab\appsscript.json)
+- [manifest: clasp_codelab/appsscript.json](clasp_codelab/appsscript.json)
 - [script: clasp_codelab/Code.js](clasp_codelab/Code.js)
