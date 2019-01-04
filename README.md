@@ -50,5 +50,15 @@ clasp deploy 1 "First deployment"
 
 ## Important Files for Datastudio connector
 
+Cloned from [NPM Downloads example](https://github.com/googledatastudio/community-connectors/tree/master/npm-downloads):
+
 - [manifest: clasp_codelab/appsscript.json](clasp_codelab/appsscript.json)
 - [script: clasp_codelab/Code.js](clasp_codelab/Code.js)
+
+## Difference between dimensions and metrics
+
+_[Source: About dimensions and metrics](https://support.google.com/datastudio/answer/6402048?hl=en&ref_topic=7441655)_
+
+> Fields contain the information that appears in your reports. There are 2 types of fields in a data source: **dimensions** and **metrics**.
+> 
+> A dimension is a category of data, while a metric is a number that quantifies something in that category. When you add a data source to a report, its fields become available for use in charts and controls.
